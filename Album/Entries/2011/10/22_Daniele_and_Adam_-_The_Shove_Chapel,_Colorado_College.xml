@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Daniele and Adam - Shove Chapel, Colorado College</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have known Paul for many years and he has been a personal friend and a blessing in my life.&#xA0; When Adam and I got engaged Paul was the obvious choice to perform our ceremony and we were overjoyed when he agreed.&#xA0; When personal tragedy struck our family only three months before our wedding, Paul was with us every step of the way.&#xA0; He made it possible for us to manage our grief and understand that we could still accept the joy of our union.&#xA0; Our wedding was everything we ever hoped it could be and even more.&#xA0; Our day was perfect and the ceremony was beautiful and Adam and I know that Paul was an integral component of making that happen.&#xA0; I will be eternally grateful to my friend that I will always have fond memories of our wedding day!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Fall 2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Daniele_and_Adam_

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Thom and Brecken - Air Force Academy, Cadet Chapel</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Thom and I met with a few different chaplains before we found what we were looking for in Paul. Unlike others, Paul did not have a pre-written standard ceremony. Rather, he used a&#xA0;speech that was unique&#xA0;to us as a couple. Paul was willing to meet with&#xA0;us as many times as we needed and to help out with&#xA0;issues big or small.&#xA0;We would recommend Paul because he is so accommodating and works to make your day just as you want it!&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Thom_and_Brecken_-_Air_Force_Academy,_Cadet_Chapel_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

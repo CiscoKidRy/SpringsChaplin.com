@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:19 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Christina and Brian - Garden of the Gods Club</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A day we will cherish for the rest of our lives... Paul was more than our ceremony officiant, he was there every step of the way with his support, guidance, and expertise.&#xA0; He was able to lead us towards a stress free day of enjoyment with family and friends! Paul was always available whenever we&#xA0;needed him.&#xA0; He truly made an effort to make our wedding meaningful and personal. &#xA0;I can't imagine the day without him!&#xA0; We are forever grateful for&#xA0;Paul's friendship and for being part of our&#xA0;special day!&#x2028;With love,  Christina &amp; Brian</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Summer 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Christina_and_Brian_-_Garden_of_the_Gods_Club_files/shapeimage_1.png" left="0px" top="0px" width="338px" height="244px"/>
+</content>

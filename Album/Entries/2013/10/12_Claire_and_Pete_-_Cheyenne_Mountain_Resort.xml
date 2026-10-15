@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20140624" date="2014-06-24 23:11:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Claire and Pete - Cheyenne Mountain Resort</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Thank you for bringing your guidance and wisdom to our wedding and our marriage. &#xA0;Your&#xA0;encouragement to&#xA0;focus on our vows helped us to have many important - though not always easy - conversations. &#xA0;Thanks you also for bringing a sense of calm and support to the actual day. &#xA0;We loved the ceremony.&#x201D; &#xA0;Claire and Pete</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Fall 2013&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Claire_and_Pete_-_Cheyenne_Mountain_Resort_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

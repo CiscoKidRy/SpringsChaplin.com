@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DE23B5C5-4B34-4950-BA9C-688BB37C6990</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-06-24T17:11:53-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:33ED6D05-B038-4264-BF25-2CBEE6306C93</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">33ED6D05-B038-4264-BF25-2CBEE6306C93</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2014-06-24T17:11:53.001-06:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7A73520B-1C4D-4C21-9C13-ECC426870D78</id>
+  <title>Biography</title>
+  <title xmlns="urn:iweb:">Biography</title>
+  <in-navbar xmlns="urn:iweb:">7A73520B-1C4D-4C21-9C13-ECC426870D78</in-navbar>
+  <link rel="alternate" href="Biography.html"/>
+  <updated>2014-06-24T17:11:53.002-06:00</updated>
+  <content>Biography</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5553C43C-3CB6-4890-9FFC-6E17B47AFE29</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">5553C43C-3CB6-4890-9FFC-6E17B47AFE29</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2014-06-24T17:11:53.003-06:00</updated>
+  <content>Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:631F7CDE-22DC-4D3B-AF2F-62F1DBF63DA9</id>
+  <title>Album</title>
+  <title xmlns="urn:iweb:">Album</title>
+  <in-navbar xmlns="urn:iweb:">631F7CDE-22DC-4D3B-AF2F-62F1DBF63DA9</in-navbar>
+  <link rel="alternate" href="Album/Album.html"/>
+  <updated>2007-01-23T10:29:52-07:00</updated>
+  <content>Album</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:24D5115E-B48F-4F21-AF87-2D23DD3B0ABA</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">24D5115E-B48F-4F21-AF87-2D23DD3B0ABA</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2014-06-24T17:11:53.004-06:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

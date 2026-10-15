@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20140624" date="2014-06-24 23:11:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Robert and Clare - Villa Parker</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Paul was wonderful to work with!  The whole process was very easy and fun.  He offered support throughout the planning and gave us many vow options to choose from along with writing our own.  Our big day went perfectly and the ceremony was flawless and beautiful!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Fall 2014&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Robert_and_Clare_-_Villa_Parker_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

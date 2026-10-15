@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:16 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Bekah and Boyce - Colorado Springs</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I don't think we could have picked a better person to perform our wedding. Not only did Paul make our wedding fun and help with our nerves, but he has such an incredible marriage that anyone would want to model their new marriage after. We met Paul and his wife Pat many years ago and instantly we fell in love with them and truly admired and respected their marriage. Paul made our day so special because he was genuinely excited and proud to be a part of our day. If you are considering Paul to perform your wedding, look no more--you will not be disappointed!&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Bekah_and_Boyce_-_Colorado_Springs_files/shapeimage_1.png" left="0px" top="0px" width="142px" height="209px"/>
+</content>

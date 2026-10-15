@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:16 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthew and Christine - Air Force Academy</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Highly recommend Chaplain Paul!!&#xD;&#xA0;&#xD;My wife and I were both from out of town and got married at the Air Force Academy chapel.&#xA0; Since the majority of the wedding party and guests were from out of town, it was great to know that Paul had everything under control...and we didn't have to worry about the rehearsal or actual ceremony!&#xA0; We did all the planning with him remotely and it all came together like clockwork!&#xD;&#xA0;&#xD;He personalized the service by incorporating our thoughts, prayers, songs, and individual story into his words...it was not a cookie cutter format and ceremony.&#xA0; He accommodated our every request!&#xD;&#xA0;&#xD;After seeing him at our wedding, I had four other friends contact him to do their weddings at the Academy chapel as well!&#xD;&#xA0;&#xD;As a retired Air Force chaplain, he understands active duty members' unique travel and logistical challenges...and makes them all go away!&#xD;&#xA0;&#xD;Matt and Christine&#xA0; &#xA0;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Matthew_and_Christine_-_Air_Force_Academy_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

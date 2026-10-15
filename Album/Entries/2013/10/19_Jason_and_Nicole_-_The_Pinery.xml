@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20140624" date="2014-06-24 23:11:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jason and Nicole - The Pinery</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I just want to thank you from the bottom of my heart for the wonderful job you did officiating our wedding this past weekend.  You offered the calming presence we needed.  Your optimistic approach and genuine enthusiasm helped make our special day a joyous one to remember.  So many family and friends commented on how awesome you are!  I’m considering exchanging my ring for a white gold version.  If you don’t mind, will you please send up a blessing for whichever ring I choose?  Thank you so very much!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Fall 2014&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Karen_and_Alex_-_Castle_Pines_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

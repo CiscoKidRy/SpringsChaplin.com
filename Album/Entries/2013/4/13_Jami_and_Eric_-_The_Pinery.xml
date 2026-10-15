@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:19 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jami and Eric - The Pinery</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Words can&#x2019;t thank you enough for what a truly amazing job you did conducting our wedding ceremony!&#xA0; We are so grateful that we met you and you were able to give us and share your gift of words and meaningful memories.&#xA0; They will always be in our hearts forever.&#xA0; You did a wonderful job.&#xA0;&#xA0; We couldn&#x2019;t be happier!&#xA0; Thank You!!!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring 2013&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Jami_and_Eric_-_The_Pinery_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>

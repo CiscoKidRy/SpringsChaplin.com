@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D0ED011D-E815-4745-8856-68C12694B777">
+  <lastEdited clientType="local-build-20131209" date="2013-12-10 04:54:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthew and Katherine - Air Force Academy, Cadet Chapel</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>For our wedding, my husband and I wanted to keep things easy and low key. We were looking for a chaplain who would both accept and respect who we were as people our and personal beliefs. We had talked with a few different chaplains, and quite frankly, were disappointed in what they had to say or how they wanted to run the ceremony. As soon as Chaplain Anderson and I started communicating, I told my husband, this has got to be our guy. I think that some people are simply made for certain things, and Paul has a gift with people. We could not have been happier.  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Matthew_and_Katherine_-_Air_Force_Academy,_Cadet_Chapel_files/shapeimage_1.png" left="0px" top="0px" width="211px" height="152px"/>
+</content>
